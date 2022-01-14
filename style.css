@@ -1,0 +1,51 @@
+header{
+    background-color: rgb(54, 81, 196);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+main
+{
+    height: 600px;
+}
+section{
+    padding-top: 15%;
+    padding-left: 45%;
+}
+
+#username
+{
+    padding:10px;
+    width: 40%;
+}
+#password
+{
+    padding:10px;
+    width: 40%;
+}
+
+button
+{
+    background-color: rgb(232, 69, 70); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: relative;
+    left: 30.5%;
+}
+
+footer
+{
+    background-color: rgb(93, 93, 93);
+    padding: 40px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
